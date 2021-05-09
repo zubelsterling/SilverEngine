@@ -1,0 +1,3 @@
+﻿  Win32_platform.cpp
+C:\Users\Sterling\source\repos\SilverEngine\SilverEngine\Win32_platform.cpp(41,5): warning C4007: 'WinMain': must be '__stdcall'
+  SilverEngine.vcxproj -> C:\Users\Sterling\source\repos\SilverEngine\Debug\SilverEngine.exe
