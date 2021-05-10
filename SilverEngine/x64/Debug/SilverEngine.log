@@ -1,2 +1,6 @@
 ﻿  Win32_platform.cpp
+C:\Users\Sterling\source\repos\SilverEngine\SilverEngine\renderer.cpp(41,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sterling\source\repos\SilverEngine\SilverEngine\renderer.cpp(42,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sterling\source\repos\SilverEngine\SilverEngine\renderer.cpp(43,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sterling\source\repos\SilverEngine\SilverEngine\renderer.cpp(44,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
   SilverEngine.vcxproj -> C:\Users\Sterling\source\repos\SilverEngine\x64\Debug\SilverEngine.exe
